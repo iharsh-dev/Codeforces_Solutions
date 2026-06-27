@@ -6,30 +6,30 @@
 
 | Total Problems | Topics |
 |---|---|
-| 105 | 18 |
+| 120 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (3)
-- [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (26)
+- [binary search](#binary-search) (5)
+- [bitmasks](#bitmasks) (3)
+- [brute force](#brute-force) (31)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (19)
-- [data structures](#data-structures) (3)
-- [dp](#dp) (4)
+- [constructive algorithms](#constructive-algorithms) (22)
+- [data structures](#data-structures) (4)
+- [dp](#dp) (5)
 - [games](#games) (4)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (44)
+- [greedy](#greedy) (53)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (32)
-- [math](#math) (40)
-- [number theory](#number-theory) (11)
-- [sortings](#sortings) (15)
-- [strings](#strings) (14)
-- [two pointers](#two-pointers) (6)
+- [implementation](#implementation) (36)
+- [math](#math) (47)
+- [number theory](#number-theory) (15)
+- [sortings](#sortings) (18)
+- [strings](#strings) (15)
+- [two pointers](#two-pointers) (7)
 
 ---
 
@@ -43,7 +43,9 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.py) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.py) |
+| 1742E | [Scuza](https://codeforces.com/contest/1742/problem/E) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1742/E%20-%20Scuza/solution.py) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.py) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.py) |
 
@@ -52,6 +54,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.py) |
+| 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.py) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.py) |
 
 ### brute force
@@ -61,6 +64,10 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
+| 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
+| 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.py) |
+| 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.py) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.py) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.py) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.py) |
@@ -71,6 +78,7 @@
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.py) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.py) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.py) |
+| 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.py) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.py) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1904/A%20-%20Forked!/solution.py) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.cpp) |
@@ -95,9 +103,12 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1312/B%20-%20Bogosort/solution.py) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.py) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.py) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.py) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.py) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.py) |
 | 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.py) |
 | 1831A | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1831/A%20-%20Twin%20Permutations/solution.py) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.py) |
@@ -120,6 +131,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1679B | [Stone Age Problem](https://codeforces.com/contest/1679/problem/B) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1679/B%20-%20Stone%20Age%20Problem/solution.py) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.py) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.py) |
 | 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.py) |
 
@@ -127,6 +139,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.py) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1883/C%20-%20Raspberries/solution.py) |
 | 2126B | [No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2126/B%20-%20No%20Casino%20in%20the%20Mountains/solution.cpp) |
 | 2208C | [Stamina and Tasks](https://codeforces.com/contest/2208/problem/C) | 1300 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2208/C%20-%20Stamina%20and%20Tasks/solution.py) |
@@ -155,15 +168,24 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.py) |
+| 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.py) |
+| 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.py) |
+| 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.py) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.py) |
+| 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.py) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.py) |
 | 1696B | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1696/B%20-%20NIT%20Destroys%20the%20Universe/solution.py) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.py) |
 | 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.py) |
+| 1742E | [Scuza](https://codeforces.com/contest/1742/problem/E) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1742/E%20-%20Scuza/solution.py) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.py) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.py) |
+| 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.py) |
 | 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.py) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.py) |
+| 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.py) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.py) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1849/B%20-%20Monsters/solution.py) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.py) |
@@ -216,6 +238,8 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.py) |
+| 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.py) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.py) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.py) |
 | 1679B | [Stone Age Problem](https://codeforces.com/contest/1679/problem/B) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1679/B%20-%20Stone%20Age%20Problem/solution.py) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.py) |
@@ -226,10 +250,12 @@
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.py) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.py) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.py) |
+| 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.py) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1814/A%20-%20Coins/solution.py) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1829/B%20-%20Blank%20Space/solution.py) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.py) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.py) |
+| 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.py) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.py) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1904/A%20-%20Forked!/solution.py) |
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.cpp) |
@@ -248,7 +274,14 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/617/A%20-%20Elephant/solution.py) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.py) |
+| 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.py) |
+| 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.py) |
+| 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.py) |
+| 1671C | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1671/C%20-%20Dolce%20Vita/solution.py) |
+| 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.py) |
 | 1731B | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1731/B%20-%20Kill%20Demodogs/solution.py) |
+| 1742E | [Scuza](https://codeforces.com/contest/1742/problem/E) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1742/E%20-%20Scuza/solution.py) |
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.py) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.py) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.py) |
@@ -289,11 +322,15 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
+| 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
+| 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.py) |
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.py) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.py) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.py) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.py) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
+| 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.py) |
 | 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.cpp) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.py) |
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.py) |
@@ -307,8 +344,11 @@
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.py) |
+| 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1312/B%20-%20Bogosort/solution.py) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.py) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.py) |
+| 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.py) |
+| 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.py) |
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.py) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1849/B%20-%20Monsters/solution.py) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.py) |
@@ -332,6 +372,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.py) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.py) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.py) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.py) |
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1883/B%20-%20Chemistry/solution.py) |
@@ -348,6 +389,7 @@
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.py) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.py) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.py) |
+| 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.py) |
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.py) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.py) |
 
