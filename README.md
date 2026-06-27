@@ -6,21 +6,109 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 16 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [brute force](#brute-force) (6)
+- [constructive algorithms](#constructive-algorithms) (4)
+- [dp](#dp) (1)
+- [geometry](#geometry) (1)
+- [greedy](#greedy) (8)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (5)
+- [math](#math) (6)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (2)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.cpp) |
+| 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.cpp) |
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.cpp) |
+| 2147A | [Shortest Increasing Path](https://codeforces.com/contest/2147/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2147/A%20-%20Shortest%20Increasing%20Path/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.py) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2126B | [No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2126/B%20-%20No%20Casino%20in%20the%20Mountains/solution.cpp) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148B | [Lasers](https://codeforces.com/contest/2148/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2148/B%20-%20Lasers/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2126B | [No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2126/B%20-%20No%20Casino%20in%20the%20Mountains/solution.cpp) |
+| 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.cpp) |
+| 2147A | [Shortest Increasing Path](https://codeforces.com/contest/2147/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2147/A%20-%20Shortest%20Increasing%20Path/solution.cpp) |
+| 2148C | [Pacer](https://codeforces.com/contest/2148/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2148/C%20-%20Pacer/solution.cpp) |
+| 2152A | [Increase or Smash](https://codeforces.com/contest/2152/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2152/A%20-%20Increase%20or%20Smash/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.py) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 1703E | [Mirror Grid](https://codeforces.com/contest/1703/problem/E) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1703/E%20-%20Mirror%20Grid/solution.py) |
+| 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.cpp) |
+| 2152A | [Increase or Smash](https://codeforces.com/contest/2152/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2152/A%20-%20Increase%20or%20Smash/solution.cpp) |
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.py) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.cpp) |
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
+| 2148C | [Pacer](https://codeforces.com/contest/2148/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2148/C%20-%20Pacer/solution.cpp) |
+| 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2149/A%20-%20Be%20Positive/solution.py) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2167/A%20-%20Square%3F/solution.py) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2144A | [Cut the Array](https://codeforces.com/contest/2144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2144/A%20-%20Cut%20the%20Array/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2167/A%20-%20Square%3F/solution.py) |
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.py) |
 
 ---
 
