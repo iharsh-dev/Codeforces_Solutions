@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 153 | 20 |
+| 154 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (9)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (38)
@@ -45,6 +45,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2238C | [Village Guilds](https://codeforces.com/contest/2238/problem/C) | Unrated | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2238/C%20-%20Village%20Guilds/solution.py) |
 | 2238D | [Storming Arasaka](https://codeforces.com/contest/2238/problem/D) | Unrated | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2238/D%20-%20Storming%20Arasaka/solution.py) |
 
 ### binary search
