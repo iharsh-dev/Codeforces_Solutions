@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 154 | 20 |
+| 155 | 20 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (9)
-- [bitmasks](#bitmasks) (5)
+- [bitmasks](#bitmasks) (6)
 - [brute force](#brute-force) (38)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (30)
+- [constructive algorithms](#constructive-algorithms) (31)
 - [data structures](#data-structures) (5)
 - [dp](#dp) (8)
 - [games](#games) (5)
@@ -26,7 +26,7 @@
 - [greedy](#greedy) (73)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (40)
-- [math](#math) (61)
+- [math](#math) (62)
 - [number theory](#number-theory) (19)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (25)
@@ -66,6 +66,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.py) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.py) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.py) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.py) |
@@ -128,6 +129,7 @@
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1312/B%20-%20Bogosort/solution.py) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
 | 1527B1 | [Palindrome Game (easy version)](https://codeforces.com/contest/1527/problem/B1) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1527/B1%20-%20Palindrome%20Game%20(easy%20version)/solution.py) |
+| 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.py) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.py) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.py) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.py) |
@@ -341,6 +343,7 @@
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
 | 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.py) |
+| 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.py) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.py) |
 | 1618C | [Paint the Array](https://codeforces.com/contest/1618/problem/C) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1618/C%20-%20Paint%20the%20Array/solution.py) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.py) |
