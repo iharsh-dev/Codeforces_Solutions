@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 160 | 20 |
+| 161 | 20 |
 
 ---
 
@@ -23,13 +23,13 @@
 - [dp](#dp) (8)
 - [games](#games) (5)
 - [geometry](#geometry) (5)
-- [greedy](#greedy) (73)
+- [greedy](#greedy) (74)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (40)
 - [math](#math) (63)
 - [number theory](#number-theory) (20)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (25)
+- [sortings](#sortings) (26)
 - [strings](#strings) (17)
 - [two pointers](#two-pointers) (11)
 
@@ -217,6 +217,7 @@
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.py) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
+| 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.txt) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.py) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.py) |
 | 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.py) |
@@ -441,6 +442,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.py) |
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1312/B%20-%20Bogosort/solution.py) |
+| 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.txt) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.py) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.py) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.py) |
