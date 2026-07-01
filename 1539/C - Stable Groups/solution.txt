@@ -1,0 +1,21 @@
+n, k, x = map(int,input().split())
+arr = list(map(int,input().split()))
+arr.sort()
+krr = []
+for i in range(n - 1):
+    diff = arr[i+1] - arr[i]
+    if diff > x:
+        c = diff//x 
+        if diff%x==0:
+            krr.append(c - 1)
+        else:
+            krr.append(c)
+krr.sort()
+curr = 0 
+count = 0
+for i in krr:
+    if curr + i > k:
+        break 
+    count+=1
+    curr+=i
+print(len(krr)-count+1)
