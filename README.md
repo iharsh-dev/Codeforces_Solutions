@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 161 | 20 |
+| 162 | 20 |
 
 ---
 
@@ -23,13 +23,13 @@
 - [dp](#dp) (8)
 - [games](#games) (5)
 - [geometry](#geometry) (5)
-- [greedy](#greedy) (74)
+- [greedy](#greedy) (75)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (40)
 - [math](#math) (63)
 - [number theory](#number-theory) (20)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (26)
+- [sortings](#sortings) (27)
 - [strings](#strings) (17)
 - [two pointers](#two-pointers) (11)
 
@@ -251,6 +251,7 @@
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1849/B%20-%20Monsters/solution.py) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.py) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.py) |
+| 1857C | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | 1200 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1857/C%20-%20Assembly%20via%20Minimums/solution.txt) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1858/A%20-%20Buttons/solution.py) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.py) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.py) |
@@ -451,6 +452,7 @@
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.py) |
 | 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.py) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1849/B%20-%20Monsters/solution.py) |
+| 1857C | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | 1200 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1857/C%20-%20Assembly%20via%20Minimums/solution.txt) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.py) |
 | 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1869/B%20-%202D%20Traveling/solution.py) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.py) |
