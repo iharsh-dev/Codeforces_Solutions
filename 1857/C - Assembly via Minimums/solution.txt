@@ -1,0 +1,15 @@
+t = int(input())
+ans = []
+for _ in range(t):
+    n = int(input())
+    brr = []
+    arr = list(map(int,input().split()))
+    arr.sort()
+    j = 0
+    for i in range(n-1,0,-1):
+        brr.append(arr[j])
+        j += i 
+    brr.append(arr[-1])
+    ans.append(brr)
+for i in ans:
+    print(*i)
