@@ -1,0 +1,12 @@
+n = input()
+big = 0 
+small = 0
+for i in n:
+    if 65 <= ord(i) < 97:
+        big+=1
+    else:
+        small+=1 
+if big > small:
+    print(n.upper())
+else:
+    print(n.lower())
