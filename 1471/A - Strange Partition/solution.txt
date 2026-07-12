@@ -1,0 +1,18 @@
+t = int(input())
+for _ in range(t):
+    n, x = map(int,input().split())
+    arr = list(map(int,input().split()))
+    som = 0
+    for i in arr:
+        a = i//x
+        if i % x == 0:
+            som += a
+        else:
+            som += (a + 1)
+    a = sum(arr)
+    b = a // x
+    if a % x == 0:
+        some = b 
+    else:
+        some = b + 1 
+    print(some,som)
