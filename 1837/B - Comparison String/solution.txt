@@ -1,0 +1,14 @@
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    arr = input()
+    i = 0
+    maxx = 0
+    while i < n:
+        curr = arr[i] 
+        count = 0 
+        while i < n and arr[i] == curr:
+            count+=1 
+            i+=1
+        maxx = max(maxx,count)
+    print(maxx+1)
