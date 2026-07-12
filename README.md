@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 166 | 20 |
+| 167 | 21 |
 
 ---
 
@@ -20,13 +20,14 @@
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (31)
 - [data structures](#data-structures) (5)
-- [dp](#dp) (8)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (9)
 - [games](#games) (5)
 - [geometry](#geometry) (5)
-- [greedy](#greedy) (78)
+- [greedy](#greedy) (79)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (41)
-- [math](#math) (65)
+- [math](#math) (66)
 - [number theory](#number-theory) (21)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (27)
@@ -173,10 +174,17 @@
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.py) |
 | 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.py) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.txt) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.txt) |
 | 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.py) |
 | 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.py) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.py) |
@@ -221,6 +229,7 @@
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
 | 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.txt) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.py) |
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.txt) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.py) |
 | 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.py) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.py) |
@@ -357,6 +366,7 @@
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
 | 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.py) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.py) |
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.txt) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.py) |
 | 1618C | [Paint the Array](https://codeforces.com/contest/1618/problem/C) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1618/C%20-%20Paint%20the%20Array/solution.py) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.py) |
