@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 165 | 20 |
+| 166 | 20 |
 
 ---
 
@@ -23,11 +23,11 @@
 - [dp](#dp) (8)
 - [games](#games) (5)
 - [geometry](#geometry) (5)
-- [greedy](#greedy) (77)
+- [greedy](#greedy) (78)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (41)
-- [math](#math) (64)
-- [number theory](#number-theory) (20)
+- [math](#math) (65)
+- [number theory](#number-theory) (21)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (27)
 - [strings](#strings) (18)
@@ -216,6 +216,7 @@
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.py) |
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.txt) |
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.py) |
+| 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.txt) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
 | 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.txt) |
@@ -351,6 +352,7 @@
 | 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.py) |
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.txt) |
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.py) |
+| 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.txt) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
 | 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.py) |
@@ -414,6 +416,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
+| 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.txt) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
 | 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.py) |
