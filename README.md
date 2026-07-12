@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 164 | 20 |
+| 165 | 20 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [dp](#dp) (8)
 - [games](#games) (5)
 - [geometry](#geometry) (5)
-- [greedy](#greedy) (76)
+- [greedy](#greedy) (77)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (41)
 - [math](#math) (64)
@@ -248,6 +248,7 @@
 | 1821B | [Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1821/B%20-%20Sort%20the%20Subarray/solution.py) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1831/B%20-%20Array%20merging/solution.py) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.py) |
+| 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1837/B%20-%20Comparison%20String/solution.txt) |
 | 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.py) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1849/B%20-%20Monsters/solution.py) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.py) |
