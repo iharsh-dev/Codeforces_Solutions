@@ -1,0 +1,26 @@
+t = int(input())
+for _ in range(t):
+    num = input()
+    i = len(num)-1
+    count = 0
+    while i > 0:
+        if num[i] == '0':
+            k = i-1
+            while k > 0 and num[k] != '0' and num[k] != '5':
+                count+=1 
+                k-=1
+            break 
+        count+=1 
+        i-=1
+    j = len(num)-1
+    con = 0 
+    while j > 0:
+        if num[j] == '5':
+            k = j-1
+            while k > 0 and num[k] != '2' and num[k] != '7':
+                con+=1 
+                k-=1
+            break 
+        con+=1
+        j-=1
+    print(min(con,count))
