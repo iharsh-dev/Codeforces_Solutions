@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 169 | 21 |
+| 170 | 21 |
 
 ---
 
@@ -24,11 +24,11 @@
 - [dp](#dp) (9)
 - [games](#games) (5)
 - [geometry](#geometry) (5)
-- [greedy](#greedy) (80)
+- [greedy](#greedy) (81)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (42)
-- [math](#math) (66)
-- [number theory](#number-theory) (21)
+- [math](#math) (67)
+- [number theory](#number-theory) (22)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (28)
 - [strings](#strings) (18)
@@ -230,6 +230,7 @@
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
 | 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.txt) |
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.txt) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.py) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.txt) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.py) |
@@ -369,6 +370,7 @@
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
 | 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.py) |
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.txt) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.py) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.txt) |
 | 1594C | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1594/C%20-%20Make%20Them%20Equal/solution.py) |
@@ -434,6 +436,7 @@
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.py) |
 | 1487B | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | 1200 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1487/B%20-%20Cat%20Cycle/solution.py) |
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [PyPy 3-64](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.txt) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.py) |
 | 1742D | [Coprime](https://codeforces.com/contest/1742/problem/D) | 1100 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1742/D%20-%20Coprime/solution.py) |
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [Python 3](https://github.com/iharsh-dev/Codeforces_Solutions/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.py) |
