@@ -1,0 +1,10 @@
+t = int(input())
+for _ in range(t):
+    a, b = map(int,input().split())
+    maxx = abs(b-a)
+    inc = dec = 0
+    if maxx != 0:
+        c = min(a,b)
+        inc = (c//maxx + 1)*maxx - c
+        dec = c%maxx
+    print(maxx,min(dec,inc))
